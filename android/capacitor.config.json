@@ -1,0 +1,13 @@
+{
+  "appId": "com.tweencraft.adventure",
+  "appName": "TweenCraft Adventure",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0a0a1a"
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
